@@ -517,7 +517,7 @@
                 <div class="row row-sm">
                     <div class="col-md-12">
                         <span>Copyright © {{ date('Y') }} <a href="#">{{ setting('name') }}</a>. Designed
-                            and developed by <a href="https://www.ultimatesoft.co/">UltimateSoft Co</a> All rights
+                            and developed by <a href="https://www.dylanu.com/">Dylanu</a> All rights
                             reserved.</span>
                     </div>
                 </div>
